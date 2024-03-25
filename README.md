@@ -6,7 +6,7 @@
 
 ### Used Programming Language
 - R studio
-- Python
+- Python[<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>]
 
 
 ### Used concepts
